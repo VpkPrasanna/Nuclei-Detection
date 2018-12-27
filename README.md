@@ -1,11 +1,8 @@
 # Nuclei-Detection
 
 
-# Nuclei-Detection
 
-# Nuclei-Detection
-
-Spot Nuclei .Speed Cures
+#Spot Nuclei .Speed Cures
 
 The whole project is about to identify the Nuceli Detection from various images of Nucelus present data..
 
@@ -41,7 +38,7 @@ The data set conatins images for test and train ,these datasets helps to train a
 
 The Main Backend for this project is keras which run on top of tensorflow (Googles open source framework) for machine Learning 
 
-WORK FLOW
+#WORK FLOW
 
 1)Preprocess all the images to a format
 2)Load the images
